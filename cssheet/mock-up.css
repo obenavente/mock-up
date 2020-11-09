@@ -1,0 +1,38 @@
+h3 {
+  color:#696969;
+}
+p {
+  color:#696969;
+}
+a {
+  color:#20B2AA
+}
+aside {
+  float:right;
+  margin-bottom: 7rem;
+  margin-top: 7rem;
+}
+footer {
+  clear:right;
+  background-color:black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.important {
+  color: white;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottom {
+  text-align: center;
+  margin-top: 2rem;
+  color: white;
+}
+nav {
+  text-align: center;
+  color: white;
+}
