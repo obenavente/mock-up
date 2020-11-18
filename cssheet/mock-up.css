@@ -1,10 +1,37 @@
+header {
+  background-color: #20B2AA;
+  color: white;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.introduced{
+  background-color: #DCDCDC;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#topnav1 {
+  background-color: #DCDCDC;
+  color: black;
+}
+#topnav2 {
+  background-color: #DCDCDC;
+  color: black;
+}
+#topnav3 {
+  background-color: #DCDCDC;
+  color: black;
+}
+#topnav4 {
+  background-color: #DCDCDC;
+  color: black;
+}
 h3 {
   color:#696969;
 }
 p {
   color:#696969;
 }
-a {
+.specific {
   color:#20B2AA
 }
 aside {
@@ -17,10 +44,12 @@ footer {
   background-color:black;
   padding-top: 100px;
   padding-bottom: 100px;
+  text-align: center;
 }
 .important {
   color: white;
   text-align: center;
+  margin-top: 2rem;
 }
 .center {
   display: block;
@@ -29,11 +58,20 @@ footer {
 }
 .bottom {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
   color: white;
 }
-nav {
-  text-align: center;
+#bottomnav1 {
+  color: white;
+}
+#bottomnav2 {
+  color: white;
+}
+#bottomnav3 {
+  color: white;
+}
+#bottomnav4 {
   color: white;
 }
 * {
