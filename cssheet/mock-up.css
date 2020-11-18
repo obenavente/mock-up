@@ -4,26 +4,51 @@ header {
   padding-top: 80px;
   padding-bottom: 100px;
 }
+h1 {
+  position: relative;
+  left: 400px;
+}
+h2 {
+  position: relative;
+  left: 400px;
+}
 .introduced {
   background-color:#DCDCDC;
   padding-top: 40px;
   padding-bottom: 40px;
 }
+h4 {
+  color:#20B2AA;
+}
 #topnav1 {
   background-color:#DCDCDC;
   color: black;
+  position: relative;
+  left: 400px;
 }
 #topnav2 {
   background-color: #DCDCDC;
   color: black;
+  position: relative;
+  left: 400px;
 }
 #topnav3 {
   background-color: #DCDCDC;
   color: black;
+  position: relative;
+  left: 400px;
 }
 #topnav4 {
   background-color: #DCDCDC;
   color: black;
+  position: relative;
+  left: 400px;
+}
+article {
+  position: relative;
+  left: 400px;
+  height: 50em;
+  width: 50em;
 }
 h3 {
   color:#696969;
@@ -31,13 +56,22 @@ h3 {
 p {
   color:#696969;
 }
+#kitties {
+  color:#20B2AA
+}
 .specific {
   color:#20B2AA
 }
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+.text {
+  overflow: auto;
+}
 aside {
-  float:right;
-  margin-bottom: 7rem;
-  margin-top: 7rem;
+  margin-left: 50rem;
 }
 footer {
   clear:right;
