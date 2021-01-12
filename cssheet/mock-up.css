@@ -111,3 +111,15 @@ footer {
 * {
   font-family: sans-serif;
 }
+.introduced a {
+  padding: 1rem;
+  margin: .5rem;
+}
+.sr-only {
+  position: absolute;
+  left: 1000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
